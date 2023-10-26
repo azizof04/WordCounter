@@ -1,0 +1,14 @@
+C:\Users\Ali\Desktop\bos konsol\bons\bin\Debug\net7.0\bons.exe
+C:\Users\Ali\Desktop\bos konsol\bons\bin\Debug\net7.0\bons.deps.json
+C:\Users\Ali\Desktop\bos konsol\bons\bin\Debug\net7.0\bons.runtimeconfig.json
+C:\Users\Ali\Desktop\bos konsol\bons\bin\Debug\net7.0\bons.dll
+C:\Users\Ali\Desktop\bos konsol\bons\bin\Debug\net7.0\bons.pdb
+C:\Users\Ali\Desktop\bos konsol\bons\obj\Debug\net7.0\bons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\bos konsol\bons\obj\Debug\net7.0\bons.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\bos konsol\bons\obj\Debug\net7.0\bons.AssemblyInfo.cs
+C:\Users\Ali\Desktop\bos konsol\bons\obj\Debug\net7.0\bons.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\bos konsol\bons\obj\Debug\net7.0\bons.dll
+C:\Users\Ali\Desktop\bos konsol\bons\obj\Debug\net7.0\refint\bons.dll
+C:\Users\Ali\Desktop\bos konsol\bons\obj\Debug\net7.0\bons.pdb
+C:\Users\Ali\Desktop\bos konsol\bons\obj\Debug\net7.0\bons.genruntimeconfig.cache
+C:\Users\Ali\Desktop\bos konsol\bons\obj\Debug\net7.0\ref\bons.dll
